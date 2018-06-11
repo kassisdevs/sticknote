@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "stickynote",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
